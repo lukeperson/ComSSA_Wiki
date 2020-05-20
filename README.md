@@ -5,4 +5,5 @@ This wiki was built to help computing students socially academically and career 
 [CLICK HERE TO GO TO THE WIKI](https://github.com/lukeperson/ComSSA_Wiki/wiki)
 
 ## Contributors 
-Created by Luke Tan
+* Created by Luke Tan
+* Sam Stoddart
