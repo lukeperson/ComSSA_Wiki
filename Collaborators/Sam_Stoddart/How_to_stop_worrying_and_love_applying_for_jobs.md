@@ -2,7 +2,7 @@ Transitioning from Uni to Industry is one of the most stressful parts of startin
 
 This guide is by no means comprehensive, but my hope if that you'll find one or two useful pieces of information that help you on your way to a great career!
 
-![Sam](https://github.com/lukeperson/ComSSA_Wiki/blob/master/Sam_Stoddart/images/98341038_2618047671766814_1237944909126696960_n.jpg)
+![Sam](https://github.com/lukeperson/ComSSA_Wiki/blob/master/Collaborators/Sam_Stoddart/images/98341038_2618047671766814_1237944909126696960_n.jpg)
 
 # Where did I come from?
 My sordid history meant that I ended up coming to Curtin as a mature age student. In my previous life I had been a commercial diver, but after finding that there was more work for robots than humans in that industry, I decided that it was time to make a new start and begin to fight back against the machines.
