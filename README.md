@@ -7,3 +7,4 @@ This wiki was built to help computing students socially academically and career 
 ## Contributors 
 * Created by Luke Tan
 * Sam Stoddart
+* Christian Brunette
