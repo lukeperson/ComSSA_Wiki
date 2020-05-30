@@ -1,6 +1,6 @@
 ## Me
 
-![Christian](https://github.com/lukeperson/ComSSA_Wiki/blob/master/Christian_Brunette/images/main_photo.jpg)
+![Christian](https://github.com/lukeperson/ComSSA_Wiki/blob/master/Collaborators/Christian_Brunette/images/main_photo.jpg)
 
 I graduated in 2019 with a Bachelor of Science (Comp Sci), majoring in Cyber Security after 5 years at Uni. I spent 2 years in Mechatronic engineering before finding my love for programming and Cyber. (It’s OKAY to change degrees!).
 Once I switched degrees to computer science, I immediately tried to get involved with the community at Curtin. I became a tutor, I worked with ComSSA as a committee member, and I spent a lot of time hanging out in the labs, making friends, studying and talking shit with all the awesome people that hang out there. 
